@@ -1,17 +1,17 @@
-button_offset=7
-button_spacing=4
+button_offset=4
+button_spacing=1
 full_width_title=true
 title_horizontal_offset=0
 title_vertical_offset_active=1
 title_vertical_offset_inactive=1
 #title_shadow_active=true
-title_shadow_inactive=true
+#title_shadow_inactive=true
 
 #button_layout=O|HMC
 
-active_text_color=#70788d
+active_text_color=#eee8d5
 active_text_shadow_color=#e7e8eb
-inactive_text_color=#979dac
+inactive_text_color=#586e75
 inactive_text_shadow_color=#e7e8eb
 
 placement_ratio=20
